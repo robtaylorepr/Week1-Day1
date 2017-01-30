@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# now executes with a ./
 
 lipsum_wanted = ARGV[0]
 
